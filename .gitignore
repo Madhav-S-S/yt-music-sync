@@ -1,0 +1,10 @@
+# Never commit authentication files or session cookies!
+browser.json
+headers.txt
+
+# Ignore local runtime logs and Python cache
+failed_tracks.txt
+__pycache__/
+*.pyc
+.venv/
+venv/
